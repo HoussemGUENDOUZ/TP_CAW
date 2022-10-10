@@ -14,3 +14,7 @@ function win() {
     boundary[i].style.backgroundColor = "green";
   }
 }
+
+
+
+// verification
