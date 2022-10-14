@@ -10,8 +10,6 @@ onload = (event) => {
       for (var i = 0; i < boundary.length; i++) {
         boundary[i].style.backgroundColor = "red";
       }
-      alert("You lose !");
-      check = false;
     }
   }
 };
